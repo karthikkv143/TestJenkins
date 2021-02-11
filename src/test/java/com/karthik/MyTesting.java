@@ -11,6 +11,7 @@ public class MyTesting {
 	@Test
 	public void test2() {
 		System.out.println("====Testcase Two======");
+		//
 	}
 	
 	@Test
